@@ -1,17 +1,17 @@
 <h1 align="center">Hola 👋, soy Sheila Diz</h1>
 <h3 align="center">Desarrolladora Full Stack Java</h3>
 
-- 📚 Actualmente mejorando mis conocimientos de Full Stack Java en **Programa Tu Futuro & Programación: Java Full Stack en alianza con FORD FUND y Fundación Forge**
+- 📚 Actualmente mejorando mis conocimientos de Full Stack Java mediante proyectos
 
-- 🌱 Desarrollo Front-end con **HTML, CSS, JavaScript, React, Bootstrap, Tailwind**
+- 🌱 Desarrollo Front-end con **HTML, CSS, JavaScript, React, Bootstrap, Tailwind, JSP**
 
-- 🌱  Desarrollo Back-end con **Java, Spring**
+- 🌱  Desarrollo Back-end con **Java, Spring, Spring MVC**
 
-- 🌱 Otros conocimientos: **Bases de datos, MySQL, Git, GitHub, Maven**
+- 🌱 Otros conocimientos: **Bases de datos, MySQL, Git, GitHub, Maven, JDBC, Spring JPA, Figma**
 
 - 👩‍💻 Todos mis proyectos están disponibles en **<a href="https://sheiladiz.dev.ar/" target="_blank">sheiladiz.dev.ar</a>**
   
-- 📫 Contactame por correo escribiendo a **[dizsheila07@gmail.com](dizsheila07@gmail.com)**
+- 📫 Contactame por correo escribiendo a **<a href="mailto:dizsheila07@gmail.com" target="_blank">dizsheila07@gmail.com</a>**
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
