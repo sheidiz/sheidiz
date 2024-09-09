@@ -9,7 +9,7 @@
 
 - 🌱 Otros conocimientos: **Bases de datos, MySQL, Git, GitHub, Maven, JDBC, Spring JPA, Figma**
 
-- 👩‍💻 Todos mis proyectos están disponibles en **<a href="https://sheiladiz.dev.ar/" target="_blank">sheiladiz.dev.ar</a>**
+- 👩‍💻 Todos mis proyectos están disponibles en **<a href="https://sheiladiz.vercel.app/" target="_blank">sheiladiz.vercel.app</a>**
   
 - 📫 Contactame por correo escribiendo a **<a href="mailto:dizsheila07@gmail.com" target="_blank">dizsheila07@gmail.com</a>**
 
