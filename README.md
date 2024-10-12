@@ -5,7 +5,7 @@
 
 - 🌱 Desarrollo Front-end con **HTML, CSS, JavaScript, React, Bootstrap, Tailwind, JSP**
 
-- 🌱  Desarrollo Back-end con **Java, Spring, Spring MVC**
+- 🌱  Desarrollo Back-end con **Java y Spring**
 
 - 🌱 Otros conocimientos: **Bases de datos, MySQL, Git, GitHub, Maven, JDBC, Spring JPA, Figma**
 
